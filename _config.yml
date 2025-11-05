@@ -1,16 +1,7 @@
 title: "DSC 180A — Methodology Assignment 4"
 description: "Banff Jiang — UC San Diego"
-
-
 theme: minima
-
-lsi: false
-safe: true
-highlighter: rouge
 
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
-
-email: bxjiang@ucsd.edu

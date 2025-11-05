@@ -3,6 +3,7 @@ layout: page
 title: Home
 ---
 
+# DSC 180A — Methodology Assignment 4 (Task 2)
 
 **Name & Email**  
 Banff Jiang — bxjiang@ucsd.edu
@@ -11,7 +12,7 @@ Banff Jiang — bxjiang@ucsd.edu
 Section: A10
 Mentor: Alex Warstadt
 
-
+---
 
 **What is the most interesting topic covered in your domain this quarter?**  
 The most interesting topic for me has been how **model architecture and training curricula fundamentally impact sample efficiency**. In BabyLM, we restrict data to ~100M tokens, so we can’t rely on brute-force scaling. That forces us to think deeply about design choices like pre-layer norm architectures, masking strategies, warmup schedules, and curriculum pacing. It’s been fascinating seeing how small changes can drastically improve learning under low-resource conditions.
